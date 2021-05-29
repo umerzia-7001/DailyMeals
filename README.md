@@ -1,6 +1,13 @@
-# app
+# DailyMeals 
 
-A new Flutter project.
+<p align="left">
+<img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-30 at 00.08.44.png" width="200" height="400" title="IOS platform">
+</p>
+
+<p align="right">
+<img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-30 at 00.05.15.png" width="200" height="400" title="IOS platform">
+</p>
+
 
 ## Getting Started
 
