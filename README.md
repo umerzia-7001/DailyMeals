@@ -1,13 +1,10 @@
 # DailyMeals 
 
-<p align="left">
+<p align="center">
 <img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-30 at 00.08.44.png" width="200" height="400" title="Meal Categories">
 <img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-30 at 00.05.15.png" width="200" height="400" title="Meal Recipe">
 </p>
 
-<p align="right">
-<img src="Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-30 at 00.05.15.png" width="200" height="400" title="Meal Recipe">
-</p>
 
 
 ## Getting Started
